@@ -1,0 +1,10 @@
+/Intermediate/
+/Builds/
+/Binaries/
+/DerivedDataCache/
+/Saved/
+*.VC.db
+Content/StarterContent/
+.vs/BuildingEscape/v14/.suo
+BuildingEscape.VC.VC.opendb
+Content/InfinityBlade*/
